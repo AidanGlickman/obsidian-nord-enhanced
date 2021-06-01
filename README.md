@@ -2,7 +2,7 @@
 
 This is a [Nord Theme](https://www.nordtheme.com/) implementation for [Obsidian.md](https://obsidian.md).
 
-To install it, simply copy the [obsidian.css](obsidian.css) file to your vault, and enable styling.
+To install it, simply copy the [obsidian.css](obsidian.css) file to your vault in the `./obsidian/themes` folder.
 
 It differs from [this implementation](https://github.com/insanum/obsidian_nord) in a number of ways.
 
