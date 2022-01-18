@@ -85,6 +85,34 @@
 	--text-selection:             var(--light0);
 }
 
+/* Menu Bar Styling */
+.titlebar {
+    background-color: var(--background-secondary-alt);
+  }
+  
+  .titlebar-inner {
+    color: var(--text-faint);
+  }
+  
+  .titlebar-inner {
+    color: var(--text-faint);
+  }
+  
+  .titlebar-button {
+    opacity: 1;
+  }
+  
+  .titlebar-button:hover {
+    color: var(--text-muted);
+  }
+  
+  .titlebar-button.mod-close:hover {
+    background-color: var(--accent-5);
+    color: var(--accent-2);
+  }
+
+/* End Menu Bar Styling */
+
 .theme-dark code[class*="language-"],
 .theme-dark pre[class*="language-"],
 .theme-light code[class*="language-"],
