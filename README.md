@@ -1,5 +1,7 @@
 # Obsidian Nord Enhanced
 
+UPDATE: This theme is no longer really maintained. @keppano did a really awesome job with his Nord preset in [Minimal](https://minimal.guide/) and I personally switched over to using that for my Obsidian setup instead. I highly recommend switching over to Minimal and checking out all the awesome features over there!
+
 This is a [Nord Theme](https://www.nordtheme.com/) implementation for [Obsidian.md](https://obsidian.md).
 
 To install it, find it in the theme explorer through Obsidian. If you want to add to the theme, simply copy the [obsidian.css](obsidian.css) file to your vault in the `./obsidian/themes` folder, after making changes to view live differences.
